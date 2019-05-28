@@ -1,3 +1,4 @@
+//this is a programme using linked list it will work as stack and queue according to user command.
 #include<stdio.h>
 
 struct node{
