@@ -1,3 +1,4 @@
+//This programme is using structer where stack will behave as reverse stack
 #include<bits/stdc++.h>
 
 using namespace std;
