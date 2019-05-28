@@ -1,3 +1,6 @@
+
+//This is a simple knight moving problem. User inputs the knights intial location and final location. Programme iterates the knights moving
+//indexes.
 #include<bits/stdc++.h>
 
 using namespace std;
